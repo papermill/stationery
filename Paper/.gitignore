@@ -2,7 +2,7 @@
 # This file lists what we dont want under (git) version control.
 
 # Ignore the output folder
-output/
+/_output/
 
 # Ignore everything else which looks 'generated'
 *.generated.*

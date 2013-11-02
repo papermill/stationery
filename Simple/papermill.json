@@ -1,0 +1,6 @@
+{
+  "name": "your-publication",
+  "author": "Your Name",
+  "description": "Description of you publication",
+  "input": "Document.markdown"
+}

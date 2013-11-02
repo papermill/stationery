@@ -12,7 +12,7 @@ It does not have to be much of it, because we can use [Links](http://en.wikipedi
 
 It is only a matter of time.
 
-# Le Chapteux trois
+# Chapter Three
 
 After all this content we need a quote.
 
@@ -26,3 +26,7 @@ With some thanking words.
 After that, we only need the bibliography, and we name insert a heading for it just about now.
 
 # Bibliography
+
+<!--  bibliography is inserted 
+      at the end of the document.
+-->
